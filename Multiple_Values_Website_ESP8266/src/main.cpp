@@ -10,8 +10,8 @@ ESP8266WebServer server(80);
 int count; // global counter for diagnostics
 
 //SSID and Password of your WiFi router
-const char *ssid = "ATT7RT97i2";
-const char *password = "f3y436pwzu6y";
+const char *ssid = "";
+const char *password = "";
 
 //===================================================================
 // This routine is executed when you open a browser at the IP address
